@@ -1,0 +1,16 @@
+{
+  "$schema": "https://rork.com/schema/rork.json",
+  "apps": [
+    {
+      "name": "Rork Mobile",
+      "path": "ios-rork-mobile",
+      "framework": "swift",
+      "settings": { "displayName": "Rork Mobile" }
+    },
+    {
+      "name": "Functions",
+      "path": "functions",
+      "framework": "cloudflare"
+    }
+  ]
+}
