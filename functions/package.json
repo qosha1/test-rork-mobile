@@ -1,5 +1,5 @@
 {
   "name": "functions",
-  "main": "index.js",
-  "dependencies": { "hono": "^4.0.0" }
+  "type": "module",
+  "dependencies": {}
 }
